@@ -1,0 +1,5 @@
+pandas 
+requests
+kafka-python
+google-cloud-bigquery
+python-dotenv
